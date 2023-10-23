@@ -1,10 +1,12 @@
-# Tauri + Vanilla TS
+# Devkit
 
 This template allows you to write cross-platform applications using HTML + CSS + Typescript.
 
 - Cross-platform: Web + Linux
 - Hot-reload code changes
 - [(TODO)](https://github.com/tauri-apps/tauri-action/tree/dev) [(Contd)](https://tauri.app/v1/guides/building/cross-platform/) Automated builds
+
+- TODO dockerize builds
 
 ## [Web](./web/)
 
